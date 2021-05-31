@@ -5,11 +5,14 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCIWpf", "TestCIWpf\TestCIWpf.csproj", "{893C933F-9BC3-47B9-8A36-BF4CD0F28358}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitPipelines", "GitPipelines", "{4B160961-0E33-40AD-B7EB-A71FCA223A90}"
-EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "TestCIWpf.Installer", "TestCIWpf.Installer\TestCIWpf.Installer.wapproj", "{DE0DD201-416E-452A-BF14-A44911601688}"
 	ProjectSection(ProjectDependencies) = postProject
 		{893C933F-9BC3-47B9-8A36-BF4CD0F28358} = {893C933F-9BC3-47B9-8A36-BF4CD0F28358}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9F35F5E-F5A3-41AB-8ECB-C39C010D343E}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet-desktop.yml = .github\workflows\dotnet-desktop.yml
 	EndProjectSection
 EndProject
 Global
