@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\Debug\TestCIWpf.exe.config
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\Debug\TestCIWpf.exe
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\Debug\TestCIWpf.pdb
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\App.g.cs
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf_MarkupCompile.cache
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf_MarkupCompile.lref
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\MainWindow.baml
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.g.resources
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.Properties.Resources.resources
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.exe
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.pdb
