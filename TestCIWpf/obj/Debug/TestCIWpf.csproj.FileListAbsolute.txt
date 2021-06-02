@@ -13,3 +13,12 @@ C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.csproj.Gene
 C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.csproj.CoreCompileInputs.cache
 C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.exe
 C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.pdb
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\Debug\TestCIWpf.exe.manifest
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\Debug\TestCIWpf.application
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.exe.manifest
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\obj\Debug\TestCIWpf.application
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\x64\TestCIWpf.exe.config
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\x64\TestCIWpf.exe.manifest
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\x64\TestCIWpf.application
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\x64\TestCIWpf.exe
+C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf\bin\x64\TestCIWpf.pdb
