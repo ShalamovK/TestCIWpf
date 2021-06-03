@@ -98,7 +98,7 @@ jobs:
 
     # Remove the pfx
     - name: Remove the pfx
-      run: Remove-Item -path $env:Wap_Project_Directory\$env:TestCIWpf.Installer_TemporaryKey.pfx
+      run: Remove-Item -path $env:Wap_Project_Directory\TestCIWpf.Installer_TemporaryKey.pfx
 
     # Upload the MSIX package: https://github.com/marketplace/actions/upload-artifact
     - name: Upload build artifacts
