@@ -1,2 +1,2 @@
-MainPackage=C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf.Installer\bin\AnyCPU\Debug\TestCIWpf.Installer_1.0.6.0_x64_Debug.msix
-SymbolPackage=C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf.Installer\obj\x64\Debug\Symbols\TestCIWpf.Installer_1.0.6.0_x64_Debug.appxsym
+MainPackage=C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf.Installer\bin\AnyCPU\Debug\TestCIWpf.Installer_1.0.7.0_x64_Debug.msix
+SymbolPackage=C:\Users\Kirill\source\repos\TestCIWpf\TestCIWpf.Installer\obj\x64\Debug\Symbols\TestCIWpf.Installer_1.0.7.0_x64_Debug.appxsym
